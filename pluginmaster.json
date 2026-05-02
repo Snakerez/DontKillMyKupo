@@ -1,0 +1,12 @@
+[
+  {
+    "Author": "Snakerez",
+    "Name": "DontKillKupo",
+    "InternalName": "DontKillKupo",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "This plugin prevents your game from closing down and instead brings you to the lobby!",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Snakerez/DontKillKupo",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Snakerez/DontKillKupo/main/DontKillKupo.zip"
+  }
+]
