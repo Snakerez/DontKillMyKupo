@@ -3,7 +3,7 @@
     "Author": "Snakerez",
     "Name": "DontKillKupo",
     "InternalName": "DontKillKupo",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.0.1",
     "Description": "This plugin prevents your game from closing down and instead brings you to the lobby!",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
