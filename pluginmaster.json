@@ -1,15 +1,14 @@
 [
   {
-    "Author": "Snakerez",
+    "Author": "ThaMimi",
     "Name": "DontKillKupo",
     "InternalName": "DontKillKupo",
-    "AssemblyVersion": "1.0.0.1",
-    "Description": "This plugin prevents your game from closing down and instead brings you to the lobby!",
-    "ApplicableVersion": "any",
+    "AssemblyVersion": "1.0.0.2",
+    "Description": "Prevents the game from closing on connection errors.",
+    "Punchline": "Stop the lobby error from closing your game, Kupo!",
     "DalamudApiLevel": 15,
+    "IconUrl": "https://raw.githubusercontent.com/Snakerez/DontKillMyKupo/main/icon.png",
     "RepoUrl": "https://github.com/Snakerez/DontKillMyKupo",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Snakerez/DontKillMyKupo/main/DontKillKupo.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/Snakerez/DontKillMyKupo/main/DontKillKupo.zip",
-    "DownloadCount": 0
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Snakerez/DontKillMyKupo/main/DontKillKupo.zip"
   }
 ]
