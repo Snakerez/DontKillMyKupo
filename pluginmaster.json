@@ -6,7 +6,7 @@
     "AssemblyVersion": "1.0.0.0",
     "Description": "This plugin prevents your game from closing down and instead brings you to the lobby!",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 10,
+    "DalamudApiLevel": 15,
     "RepoUrl": "https://github.com/Snakerez/DontKillMyKupo",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Snakerez/DontKillMyKupo/main/DontKillKupo.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Snakerez/DontKillMyKupo/main/DontKillKupo.zip",
